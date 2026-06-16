@@ -1,8 +1,0 @@
-TASK 2 - EDA & BUSINESS INTELLIGENCE
-==================================================
-
-Total Customers: 8950
-Average Balance: 1564.4748276781004
-Average Credit Limit: 4494.449450364621
-Total Purchases: 8978683.26
-Average Payments: 1733.1438520248046
