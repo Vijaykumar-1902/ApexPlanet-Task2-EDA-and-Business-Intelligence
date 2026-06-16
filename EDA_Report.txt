@@ -1,0 +1,37 @@
+TASK 2 - EDA & BUSINESS INTELLIGENCE
+==================================================
+
+Total Orders : 1000
+Total Revenue : 139399439.65
+Average Sales : 139399.44
+
+Top 5 Customers:
+Customer_Name
+Customer_335    1684832.52
+Customer_138    1305932.64
+Customer_266    1269445.22
+Customer_375    1196934.33
+Customer_274    1060340.15
+Name: Total_Sales, dtype: float64
+
+Sales by Category:
+Category
+Electronics    50778581.70
+Education      25031689.40
+Grocery        22231711.28
+Furniture      21521561.48
+Fashion        19835895.79
+Name: Total_Sales, dtype: float64
+
+Sales by City:
+City
+Patna        20826584.43
+Kolkata      18884349.57
+Bengaluru    18773574.32
+Mumbai       18757050.17
+Hyderabad    17166766.87
+Delhi        16097079.00
+Pune         14513175.90
+Gaya         14380859.39
+Name: Total_Sales, dtype: float64
+
